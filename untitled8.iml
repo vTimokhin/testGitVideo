@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<?xml version="2.0" encoding"UTF-8"?>
-<module type="JAVA_MODULE" version="5">
-=======
-<?xml version="2.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding"UTF-8"?>
 <module type="JAVA_MODULE" version="4">
->>>>>>> f31c2e01ecafe7a4f3293248b6f7338adcbd3552
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">

@@ -12,7 +12,7 @@ public class Main extends Application {
         try {
             FXMLLoader loader = new FXMLLoader(getClass().getResource("sample.fxml"));
             Pane root = loader.load();
-            Controller controller = loader.getController();
+            com.company.Controller controller = loader.getController();
             controller.setStage(stage);
             Scene scene = new Scene(root);
             scene.getStylesheets().clear();
